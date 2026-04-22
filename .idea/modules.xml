@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/10-worlds-api.iml" filepath="$PROJECT_DIR$/.idea/10-worlds-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10-worlds-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/10-worlds-api.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/10-worlds-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/10-worlds-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/10-worlds-api.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/10-worlds-api.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/10-worlds-api.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/10-worlds-api.api.test.iml" />
     </modules>
   </component>
 </project>
